@@ -13,4 +13,5 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 Official [*Git docs*](https://git-scm.com/docs)
-Official (<a href="https://git-scm.com/docs" target="_blank">Git docs in a new window</a>)
+
+<a href="https://git-scm.com/docs/" target="_blank">Git docs in a new window</a>
